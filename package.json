@@ -1,0 +1,19 @@
+{
+  "name": "rastreadordeprecios",
+  "version": "1.0.0",
+  "description": "RastreadorDePrecios es una herramienta que consulta sitios web de supermercados, extrae precios de productos y permite compararlos entre distintas tiendas, además de mantener un historial de precios a lo largo del tiempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaynezDev/RastreadorDePrecios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaynezDev/RastreadorDePrecios/issues"
+  },
+  "homepage": "https://github.com/LaynezDev/RastreadorDePrecios#readme"
+}
